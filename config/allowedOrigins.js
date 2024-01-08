@@ -1,5 +1,3 @@
-const allowedOrigins = [
- 'https://www.workgallery.io'
-];
+const allowedOrigins = ['https://www.workgallery.io'];
 
 module.exports = allowedOrigins;
